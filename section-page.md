@@ -28,6 +28,7 @@ This section's name is duplicated.
 ### Place 1
 
 Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+Let's add a [link to place3](#places-3-other-example) just for fun.
 
 ### Place 2
 
