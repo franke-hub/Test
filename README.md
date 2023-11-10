@@ -19,10 +19,10 @@ Aside: the Firefox extension discards all text between a '<' and the '>' charact
 
 ## Creating links to page sections in another file
 
-- [section1](./section-page#section1)
-
-- [section2](./section-page#section2)
-
-- [section3](section-page#section3)
+- [section1](./section-page.md#section1)
+- [section2](./section-page.md#section2)
+- [section3](./section-page.md#section3)
+- [Allocator.get](./section-page.md#get)
+- [BlockAllocator.get](./section-page.md#b_get)
 
 ---
