@@ -97,10 +97,6 @@ blah, blah, blah.
 blah, blah, blah.
 
 ---
-#### <a id="b_get">virtual void* get(size_t size=0);</a>
-blah, blah, blah.
-
----
 #### <a id="b_put">virtual void put(void* addr, size_t size=0);</a>
 blah, blah, blah.
 
@@ -114,6 +110,14 @@ blah, blah, blah. (Just to take up space.)
 
 ---
 #### virtual void* gamma(size_t size=0);</a>
+blah, blah, blah. (Just to take up space.)
+
+---
+#### virtual void* delta(size_t size=0);</a>
+blah, blah, blah. (Just to take up space.)
+
+---
+#### virtual void* epsilon(size_t size=0);</a>
 blah, blah, blah. (Just to take up space.)
 
 ---
