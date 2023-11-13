@@ -19,10 +19,10 @@ I'm editing this file using github's editor. It doesn't check speelling.
 Aside: the Firefox extension discards all text between a '<' and the '>' character. If you use &lt and &gt it's happy, but (as you can see) github markdown isn't.
 
 ## Creating links to page sections in another file
-- [section1](./section-page.md#section1)
+- [section1](./section-page.md#section1) The section links use automatically generated names.
 - [section2](./section-page.md#section2)
 - [section3](./section-page.md#section3)
-- [Allocator.get](./section-page.md#get)
-- [BlockAllocator.get](./section-page.md#b_get)
+- [Allocator.get](./section-page.md#get) Link defined using `<a id="get">...</a>`
+- [BlockAllocator.get](./section-page.md#b_get) Link defined using `<a id="b_get">...</a>`
 
 ---
