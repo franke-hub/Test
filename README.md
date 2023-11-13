@@ -10,11 +10,11 @@ By comparing the raw markdown here with the formatted markdown, you can see how 
 I'm editing this file using github's editor. It doesn't check speelling. 
 
 ## How are "\<\>" characters handled?
-\#include <github.com/franke-hub/Test/edit/trunk/README.md> Sample include file coding.
+\#include <github.com/franke-hub/Test/edit/trunk/README.md> Sample include file coding, escaping the '#'.
 
 #include <github.com/franke-hub/Test/edit/trunk/README.md> Sample include file coding.
 
-\# include <github.com/franke-hub/Test/edit/trunk/README.md> You don't normally have to use "\\#", but you would if (like this example) there was a space after the "#".
+\# include <github.com/franke-hub/Test/edit/trunk/README.md> You don't normally have to use "\\#", but if (like this example) there was a space after the "#" you would.
 
 Aside: the Firefox extension discards all text between a '<' and the '>' character. If you use &lt and &gt it's happy, but (as you can see) github markdown isn't.
 
